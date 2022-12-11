@@ -1,0 +1,25 @@
+{
+  "short_name": "Charles Status",
+  "name": "A Server Status",
+  "icons": [
+    {
+      "src": "https://img-2.shanrenyi.top/i/2022/07/11/62cbd8d6468e5.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://img-2.shanrenyi.top/i/2022/07/11/62cbd8d6468e5.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img-2.shanrenyi.top/i/2022/07/11/62cbd8d6468e5.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#001529",
+  "background_color": "#ffffff"
+}
